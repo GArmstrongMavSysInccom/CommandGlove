@@ -24,6 +24,9 @@ public class RelaysControl extends Activity {
     private ImageButton mLED7;
     private ImageButton mLED8;
 
+    private boolean test;
+
+
     private boolean led4_state = false;     // play music
     private boolean led5_state = false;
     private boolean led6_state = false;
